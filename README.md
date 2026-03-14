@@ -69,18 +69,6 @@
 
 ---
 
-# Структура проєкту
-app
-├── java/com/example/sensorlab
-│ └── MainActivity.java
-│
-├── res/layout
-│ └── activity_main.xml
-│
-└── AndroidManifest.xml
-
----
-
 # Інтерфейс додатка
 
 Додаток містить:
